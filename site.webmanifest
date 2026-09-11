@@ -1,0 +1,21 @@
+{
+  "name": "DICE & more",
+  "short_name": "DICE & more",
+  "description": "Beauty, events, catering, wigs, makeup and bakery in one destination.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbf8f6",
+  "theme_color": "#e7a0b6",
+  "icons": [
+    {
+      "src": "/android-chrome-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

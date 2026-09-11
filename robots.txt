@@ -1,0 +1,8 @@
+# DICE & more — robots.txt
+# https://www.diceandmore.com/
+
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+Sitemap: https://www.diceandmore.com/sitemap.xml

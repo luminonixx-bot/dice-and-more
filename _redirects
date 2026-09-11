@@ -1,0 +1,10 @@
+# Netlify redirect rules
+# Force HTTPS (Netlify does this by default when "Force HTTPS" is
+# enabled in Site settings > Domain management, but this is a
+# belt-and-braces fallback).
+http://diceandmore.com/*      https://www.diceandmore.com/:splat   301!
+http://www.diceandmore.com/*  https://www.diceandmore.com/:splat   301!
+https://diceandmore.com/*     https://www.diceandmore.com/:splat   301!
+
+# Custom 404 page
+/*  /404.html  404
