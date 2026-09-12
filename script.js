@@ -28,7 +28,7 @@
    "not fully set up yet" message instead of failing silently.
 ========================================================= */
 
-const FORM_ENDPOINT = "/api/booking";
+const FORM_ENDPOINT = "YOUR_SERVERLESS_ENDPOINT_URL_HERE";
 
 /* Simple spam guards (used lower down):
    - a honeypot field real users never see or fill in
